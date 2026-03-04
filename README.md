@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ✨
-- My past coding projects have been web pagg, simple game, Django web application and test code for my projects.
+- My past coding projects have been web page, simple game, Django web application and test code for my projects.
 - 🔭 I’m currently working on few projects with python..
 - 🌱 I’m currently learning pythin, java and AI tools
 
