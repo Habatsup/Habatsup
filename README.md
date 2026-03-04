@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+✨
+- My past coding projects have been web pagg, simple game, Django web application and test code for my projects.
+- 🔭 I’m currently working on few projects with python..
+- 🌱 I’m currently learning pythin, java and AI tools
+✨
+
 <!--
 **Habatsup/Habatsup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
